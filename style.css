@@ -1,0 +1,14 @@
+body{
+    overflow-x: hidden;
+}
+
+.home:hover{
+    border-bottom: 1px solid brown;
+    transition: 0.3s;
+    font-weight: bold;
+    color: brown !important;
+}
+
+.home{
+    font-weight: bold;
+}
